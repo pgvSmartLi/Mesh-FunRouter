@@ -1,4 +1,4 @@
-## Welcome to Mesh FunRouter
+## Welcome to Mesh MysRouter
 
 ![Image](icon-1024.png)
 
